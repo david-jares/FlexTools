@@ -1,5 +1,5 @@
 # FlexTools
-A Combination of Tools for Unity
+A Combination of Tools for Unity - it is Work in Progress and not yet finished
 
 Dependencies :
   Odin - Serializer, https://github.com/TeamSirenix/odin-serializer
